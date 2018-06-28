@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PAN689.iml" filepath="$PROJECT_DIR$/PAN689.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaseAppAndroid.iml" filepath="$PROJECT_DIR$/BaseAppAndroid.iml" />
+      <module fileurl="file://F:\PAN689-Android\PAN689.iml" filepath="F:\PAN689-Android\PAN689.iml" />
+      <module fileurl="file://F:\BaseAppAndroid\PAN689-Android.iml" filepath="F:\BaseAppAndroid\PAN689-Android.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
     </modules>
